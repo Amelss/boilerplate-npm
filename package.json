@@ -3,6 +3,7 @@
 	"author": "Ameley Kwei-Armah",
 	"description": "A project practising node.js",
 	"keywords": [ "practice", "freecodecamp", "perfect" ],
+	"version": "1.2.0",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
